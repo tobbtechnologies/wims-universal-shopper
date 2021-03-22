@@ -84,10 +84,23 @@ How will WIMS promote Women in blockchain using RSK?
 
 I am looking for funding for this WIMS dApp. I am also looking for interested developers to partner and make this happen. Lastly I am looking for companies interested in partnering with WIMS on this or other projects.
 
+Updates:
+
+There are many good blockchains coming up we feel they are suitable. Cardano seems affordable and robust(although it still needs to be tested by time). Below are WIMS proposals for WIMS:
+
+1. Cardano Ambassador services 
+2. Staking ADA
+3. Member join with ADA and referrals get paid in ADA for 
+4. 30% WIMS super partnership referral be paid in ADA
+5. Sell some of your products and services in ADA
+6. We create apps and games for people to use in ADA(WIMT)
+7. Teaching  WIMS members and getting paid in ADA(WIMT)
+
+This means WUS if produced well in Cardano then will be rewarding shoppers with ADA(WIMT) world wide. We lack developers, funders, supporters and business people to help make this great experience for shoppers come true. Join. Sponsors became part and parcel of project rewards. Smart Contract to automate all these is needed and Cardano and other promising technologies are being experimented on.
+
 If you are new to WIMS then check our project from links below:
 
 1. Exchanges
-https://wimsbytetrade.com/
 https://wims.io/ccx/
 2. Twitter
 https://twitter.com/wims83881017
@@ -116,7 +129,7 @@ Email : cto@wims.io, admin@wims.io, info@wims.io
 
 Do you want to see more women in blockchain? Sponsor WIMS below or join us:
 
-Donations:
+Donations send us emails with how you would be happy to participate cto@wims.io, admin@wims.io, info@wims.io
 
 For any donations anyone can communicate with use via cto@wims.io or admin@wims.io
 
